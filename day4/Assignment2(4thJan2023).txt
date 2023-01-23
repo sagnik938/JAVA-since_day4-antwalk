@@ -1,0 +1,13 @@
+Create a class called Inventory in a package stock. 
+This class has data members called quantity and lowOrderLevelQuantity. 
+Two classes that inherit from this class -Accessories and Laptops, are in package called material. 
+The lowOrderLevelQuantity for laptops is 3, while lowOrderLevelQuantity for Accessories is 5. 
+Apart from these members, Accessories and Laptops also have members describing them and a unique id.
+
+
+Create 5 laptops and 10 Accessories objects. The quantity member must add up accordingly in the individual classes
+
+
+Create an Order class and have customers place orders. If the ordered quantity is available then Invoice should be generated If the quantity is below lowOrderLevelQuantity then a RequestForMaterial (RFM) must
+
+be generated (45 mins)

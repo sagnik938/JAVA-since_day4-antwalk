@@ -5,6 +5,6 @@ public class TesterShape {
         Shape circle = new Shape();
         Shape rectangle = new Shape();
         System.out.println("Circle Area is "+circle.calcArea( 10 ));
-        System.out.println("Rectangle Area is "+circle.calcArea( 10 , 10 ));
+        System.out.println("Rectangle Area is "+rectangle.calcArea( 10 , 10 ));
     }
 }

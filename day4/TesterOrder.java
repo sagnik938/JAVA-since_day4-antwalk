@@ -1,6 +1,6 @@
 package day4;
 
-public class TestorOrder {
+public class TesterOrder {
     public static void main(String[] args) {
        Order o1 = new Order();
        Order o2 = new Order(200, "Pizza");
