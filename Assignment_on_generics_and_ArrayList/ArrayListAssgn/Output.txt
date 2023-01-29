@@ -1,0 +1,126 @@
+Enter
+<1> for insert
+<2> for delete
+<3> for update
+<4> for search
+<5> for display
+<0> to exit
+1
+Enter name
+Sagnik
+Enter id
+1
+Enter
+<1> for insert
+<2> for delete
+<3> for update
+<4> for search
+<5> for display
+<0> to exit
+1
+Enter name
+Rajarshi
+Enter id
+2
+Enter
+<1> for insert
+<2> for delete
+<3> for update
+<4> for search
+<5> for display
+<0> to exit
+1
+Enter name
+Aniket
+Enter id
+3
+Enter
+<1> for insert
+<2> for delete
+<3> for update
+<4> for search
+<5> for display
+<0> to exit
+1
+Enter name
+Shubh
+Enter id
+4
+Enter
+<1> for insert
+<2> for delete
+<3> for update
+<4> for search
+<5> for display
+<0> to exit
+5
+Employee [id=1, name=Sagnik]
+Employee [id=2, name=Rajarshi]
+Employee [id=3, name=Aniket]
+Employee [id=4, name=Shubh]
+Enter
+<1> for insert
+<2> for delete
+<3> for update
+<4> for search
+<5> for display
+<0> to exit
+2
+Enter id
+3
+Enter
+<1> for insert
+<2> for delete
+<3> for update
+<4> for search
+<5> for display
+<0> to exit
+5
+Employee [id=1, name=Sagnik]
+Employee [id=2, name=Rajarshi]
+Employee [id=4, name=Shubh]
+Enter
+<1> for insert
+<2> for delete
+<3> for update
+<4> for search
+<5> for display
+<0> to exit
+3
+Enter old id
+2
+Enter new name
+Arijit
+Enter new id
+2
+Enter
+<1> for insert
+<2> for delete
+<3> for update
+<4> for search
+<5> for display
+<0> to exit
+5
+Employee [id=1, name=Sagnik]
+Employee [id=2, name=Arijit]
+Employee [id=4, name=Shubh]
+Enter
+<1> for insert
+<2> for delete
+<3> for update
+<4> for search
+<5> for display
+<0> to exit
+4
+Enter search id
+1
+Found at 0 position
+Enter
+<1> for insert
+<2> for delete
+<3> for update
+<4> for search
+<5> for display
+<0> to exit
+0
+You chose to exit
