@@ -1,0 +1,4 @@
+sagnik@sagnik-HP-Notebook:~/Desktop/Assignment_on_generics_and_ArrayList$  cd /home/sagnik/Desktop/Assignment_on_generics_and_ArrayList ; /usr/bin/env /usr/lib/jvm/java-8-openjdk-amd64/bin/java -cp /home/sagnik/.config/Code/User/workspaceStorage/f4a822a2cef9d8ce9f25875cc85b4d11/redhat.java/jdt_ws/Assignment_on_generics_and_ArrayList_33f50bc4/bin GenericsAssgn.TesterImplementerClass 
+1 2 3 4 
+ABC DEF PQR 
+2.2 3.3 4.4 

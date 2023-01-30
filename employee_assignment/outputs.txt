@@ -1,0 +1,13 @@
+Navigate to employee_assignment to view source code
+if link is broken or does not work contact: 7980333873 or sagniks@trainee.nrifintech.com
+
+output
+
+Name: Sagnik
+ID: 100
+Salary: 1812.0
+***************************
+Name: Sanshkriti
+ID: 101
+Salary: 3368.0
+***************************
