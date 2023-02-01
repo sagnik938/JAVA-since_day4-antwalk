@@ -1,0 +1,16 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Program Files\\Java\\jdk-11\\lib\\mysql-connector.jar",
+        "c:\\Users\\SAGNIKS\\Downloads\\WINDOWS.X64_213000_db_home\\jdbc\\lib\\ojdbc8.jar",
+        "c:\\Users\\SAGNIKS\\Downloads\\WINDOWS.X64_213000_db_home\\jdbc\\lib\\ojdbc8_g.jar",
+        "c:\\Users\\SAGNIKS\\Downloads\\WINDOWS.X64_213000_db_home\\jdbc\\lib\\ojdbc8dms.jar",
+        "c:\\Users\\SAGNIKS\\Downloads\\WINDOWS.X64_213000_db_home\\jdbc\\lib\\ojdbc8dms_g.jar",
+        "c:\\Users\\SAGNIKS\\Downloads\\WINDOWS.X64_213000_db_home\\jdbc\\lib\\ojdbc11.jar",
+        "c:\\Users\\SAGNIKS\\Downloads\\WINDOWS.X64_213000_db_home\\jdbc\\lib\\ojdbc11_g.jar",
+        "c:\\Users\\SAGNIKS\\Downloads\\WINDOWS.X64_213000_db_home\\jdbc\\lib\\ojdbc11dms.jar",
+        "c:\\Users\\SAGNIKS\\Downloads\\WINDOWS.X64_213000_db_home\\jdbc\\lib\\ojdbc11dms_g.jar",
+        "c:\\Users\\SAGNIKS\\Downloads\\WINDOWS.X64_213000_db_home\\jdbc\\lib\\rsi.jar",
+        "c:\\Users\\SAGNIKS\\Downloads\\WINDOWS.X64_213000_db_home\\jdbc\\lib\\simplefan.jar"
+    ]
+}
