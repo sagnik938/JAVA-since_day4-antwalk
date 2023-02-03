@@ -1,0 +1,10 @@
+Stream Api is a java 8 feature works with collections.
+It helps processing of collections.
+takes input from a collection --> considered as source --> does not change original data
+Result provided as per pipeline method
+
+operations:-
+Filter and Map are the most important...
+Filter usd to filter out data as per specified predicate(based on condition).
+Map maps to a diff collection using some function...
+Flat Map --> 10 object collection --> every object is another collection --> returns a stream of objects
